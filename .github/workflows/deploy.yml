@@ -3,7 +3,7 @@ name: Deploy NodeJS Application to vm
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
