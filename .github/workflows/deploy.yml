@@ -24,3 +24,5 @@ jobs:
             cd /home/ubuntu/nodejs-application-deploy-github-actions
             git pull
             docker compose -d --build
+
+            
